@@ -59,10 +59,10 @@ Whether you need a reliable developer or a technical partner for your business c
 
 Feel free to connect with me or explore my repositories!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/daniar-jabagin-32935a295/) 
-[![Upwork](https://img.shields.io/badge/-Upwork-1DA1F2?style=flat&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01d29a90aac5e451ce)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]() 
+[![Upwork](https://img.shields.io/badge/-Upwork-1DA1F2?style=flat&logo=Upwork&logoColor=white)]()
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/daniar_state)
-[![Kwork](https://img.shields.io/badge/-Kwork-FFD700?style=flat&logoColor=white)](https://kwork.ru/user/daniar-state)
+[![Kwork](https://img.shields.io/badge/-Kwork-FFD700?style=flat&logoColor=white)]()
 
 ⭐️ From web development to digital transformation, I'm your go-to expert.
 
