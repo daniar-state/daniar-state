@@ -1,73 +1,67 @@
-# 👋 Hi, I'm a Passionate Developer
+<div align="center">
 
-Welcome to my GitHub profile! I specialize in web and software development, leveraging a rich skill set in JavaScript (NodeJS, React), and Python (Django, Flask, FastAPI) to bring innovative solutions to life.
+<img src="https://i.ibb.co/PGL6K8s4/Screenshot-1.png" alt="Daniar Jabagin" width="50"/>
 
-## 🚀 What I Do
+<br/>
 
-With over 6 years in the tech industry, I offer a range of services aimed at empowering businesses through digital transformation and robust tech solutions:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Solo+Full-Stack+Developer;Architecture+%E2%86%92+Code+%E2%86%92+Deployment;Building+products+end-to-end)](https://git.io/typing-svg)
 
-- **Software Development**: Crafting high-quality software tailored to meet your specific needs.
-- **Web Application Development**: Building responsive, user-friendly web applications.
-- **Digital Transformation**: Helping businesses evolve and thrive in the digital era.
-- **API Development and Integration**: Designing and integrating APIs for enhanced interoperability.
-- **MVP Development**: Turning your ideas into a viable product with a focus on market fit.
-- **Cloud Development**: Utilizing cloud technologies for scalable, efficient solutions.
+# Daniar Jabagin
 
-## 🛠️ Technical Toolbox
+Based in Kazakhstan 🇰🇿 · Open to collaboration
 
-My expertise lies in a variety of tools and technologies, ensuring versatility and innovation in every project:
+<br/>
 
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=Node.js&logoColor=white)
-- **Frameworks**: ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=Django&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=Flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=FastAPI&logoColor=white) ![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=Express&logoColor=white)
-- **Frontend**: ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=React&logoColor=black) ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat&logo=Next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=Tailwind-CSS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=Bootstrap&logoColor=white)
-- **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=PostgreSQL&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![SQLite3](https://img.shields.io/badge/-SQLite3-003B57?style=flat&logo=SQLite&logoColor=white)
-- **Additional Tools**: ![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=Celery&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat&logo=Serverless&logoColor=white) ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=GIT&logoColor=white)
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=Amazon-AWS&logoColor=white) ![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=Google-Cloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=DigitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=Google-Cloud&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniar_state)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haikustudio@inbox.ru)
 
-## 🌟 Featured Repositories
+</div>
 
-Below are some of my favorite projects. Feel free to check them out:
+---
+
+### About
+
+Independent engineer building full-stack products end-to-end — from system design to production deployment. Focused on clean architecture, scalable systems, and shipping fast.
+
+### Currently building
+
+> Working on active commercial products — details under NDA and cannot be disclosed publicly.
+
+- **SkyShop Market** · *NDA*
+- **DonatBank** · *NDA*
+
+### Organization
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/daniar-state/daniar-web-portfolio">
-        <img src="https://i.postimg.cc/YCgSpcMX/Daniar-state.jpg" alt="My web-portfolio website" width="140" height="140"/>
+    <td width="100" align="center">
+      <a href="https://github.com/haikustudio">
+        <img src="https://github.com/haikustudio.png" width="72" alt="Haiku Studio"/>
       </a>
-      <br>My Web-Portfolio
     </td>
     <td>
-      <a href="https://github.com/daniar-state/state-form-builder">
-        <img src="https://i.postimg.cc/fbbqYXBp/1.png" alt="Form Builder" width="140" height="140"/>
-      </a>
-      <br>Form Builder
-    </td>
-    <td>
-      <a href="https://github.com/daniar-state/Tilda-Integration-Suite">
-        <img src="https://i.postimg.cc/T2bk0Dy2/carbon.png" alt="Tilda Integrate Suite" width="140" height="140"/>
-      </a>
-      <br>Tilda Integrate Suite
+      <strong><a href="https://github.com/haikustudio">Haiku Studio →</a></strong><br/>
+      <sub>The studio where I design and ship production software.</sub>
     </td>
   </tr>
 </table>
 
+### Tech Stack
 
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+</p>
 
-## 🤝 Let's Connect
-
-Whether you need a reliable developer or a technical partner for your business challenges, I'm here to help. Ready to tackle any task and work on projects that make a difference.
-
-Feel free to connect with me or explore my repositories!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]() 
-[![Upwork](https://img.shields.io/badge/-Upwork-1DA1F2?style=flat&logo=Upwork&logoColor=white)]()
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=Telegram&logoColor=white)](https://t.me/daniar_state)
-[![Kwork](https://img.shields.io/badge/-Kwork-FFD700?style=flat&logoColor=white)]()
-
-⭐️ From web development to digital transformation, I'm your go-to expert.
-
-
-<!---
-daniar-state/daniar-state is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+</p>
