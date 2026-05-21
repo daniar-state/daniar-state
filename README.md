@@ -12,7 +12,7 @@ Based in Kazakhstan 🇰🇿 · Open to collaboration
 
 <br/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniar_state)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/daniarjabagin)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haikustudio@inbox.ru)
 
 </div>
