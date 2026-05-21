@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/PGL6K8s4/Screenshot-1.png" alt="Daniar Jabagin" width="50"/>
+<img src="https://i.ibb.co.com/hRkLhGjS/standart-team-logo-light-nobg.png" alt="Daniar Jabagin" width="100"/>
 
 <br/>
 
