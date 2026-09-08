@@ -18,20 +18,15 @@
 
 <br>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>01 &nbsp; What I build</h3>
-      <p>Web products, interfaces, and the systems behind them.</p>
-      <p><strong>From the first sketch to the next release.</strong></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>02 &nbsp; What I care about</h3>
-      <p>Clear design, fast interactions, and code that stays readable.</p>
-      <p><strong>Useful first. Better with each iteration.</strong></p>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/panels/build-mobile.svg">
+  <img src="assets/panels/build.svg" alt="What I build. Web products, interfaces, and the systems behind them. From the first sketch to the next release." width="960">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px)" srcset="assets/panels/care-mobile.svg">
+  <img src="assets/panels/care.svg" alt="What I care about. Clear design, fast interactions, and code that stays readable. Useful first. Better with each iteration." width="960">
+</picture>
 
 ## On my workbench
 
@@ -56,9 +51,9 @@ Early demos, small experiments, and progress go into the studio journal.
 <details>
 <summary><strong>More of the toolbox</strong></summary>
 
-| Interfaces   | Backend & data          | Delivery & experiments           |
-| :----------- | :---------------------- | :------------------------------- |
-| Tailwind CSS | NestJS · Redis · Prisma | Traefik · GitHub Actions · Godot |
+- **Interfaces:** Tailwind CSS.
+- **Backend & data:** NestJS, Redis, Prisma.
+- **Delivery & experiments:** Traefik, GitHub Actions, Godot.
 
 </details>
 
