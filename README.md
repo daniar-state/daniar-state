@@ -4,51 +4,71 @@
 </picture>
 
 <p align="center">
-  <a href="https://github.com/asterustudio">Asteru Studio</a> &nbsp; · &nbsp;
-  <a href="https://t.me/daniarjabagin">Say hello</a> &nbsp; · &nbsp;
-  <a href="https://x.com/asterustudio">Follow the work</a>
+  <a href="https://github.com/asterustudio"><img src="assets/buttons/studio.svg" alt="Asteru Studio" height="44"></a>
+  <a href="https://t.me/daniarjabagin"><img src="assets/buttons/message.svg" alt="Message me on Telegram" height="44"></a>
+  <a href="https://x.com/asterustudio"><img src="assets/buttons/follow.svg" alt="Follow on X" height="44"></a>
 </p>
 
-## Hi, I’m Daniar
+<h2 align="center">Hi, I’m Daniar.</h2>
 
-I’m a developer from Kazakhstan and the person behind **Asteru Studio**.
-I turn ideas into working products, from the first interface sketch to the code
-that keeps everything running. Then I keep improving them.
+<p align="center">
+  Developer from Kazakhstan. The person behind <strong>Asteru Studio</strong>.<br>
+  I design, build, and keep improving my own products.
+</p>
 
-### What brings me here
+<br>
 
-**Making things useful.** Software should solve a problem you can actually describe.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>01 &nbsp; What I build</h3>
+      <p>Web products, interfaces, and the systems behind them.</p>
+      <p><strong>From the first sketch to the next release.</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>02 &nbsp; What I care about</h3>
+      <p>Clear design, fast interactions, and code that stays readable.</p>
+      <p><strong>Useful first. Better with each iteration.</strong></p>
+    </td>
+  </tr>
+</table>
 
-**Getting the details right.** Clear interfaces, responsive interactions,
-and code I can still understand a few months later.
+## On my workbench
 
-**Sharing the work.** Early versions, small experiments, and the decisions
-that turn a rough idea into something people can use.
+**Asteru Studio** is where I’m turning my own ideas into products.<br>
+Early demos, small experiments, and progress go into the studio journal.
 
-### On my workbench
+<p>
+  <a href="https://t.me/asterustudio"><img src="assets/buttons/journal.svg" alt="Read the studio journal" height="44"></a>
+</p>
 
-I’m developing Asteru Studio and its own products. I share demos and progress
-in the [studio channel](https://t.me/asterustudio).
+## Tools I reach for
+
+<p>
+  <img src="assets/stack/typescript.svg" alt="TypeScript" height="30">
+  <img src="assets/stack/react.svg" alt="React" height="30">
+  <img src="assets/stack/nextjs.svg" alt="Next.js" height="30">
+  <img src="assets/stack/nodejs.svg" alt="Node.js" height="30">
+  <img src="assets/stack/postgresql.svg" alt="PostgreSQL" height="30">
+  <img src="assets/stack/docker.svg" alt="Docker" height="30">
+</p>
 
 <details>
-<summary><strong>Tools I work with</strong></summary>
+<summary><strong>More of the toolbox</strong></summary>
 
-| Area                | Tools                                      |
-| :------------------ | :----------------------------------------- |
-| Interfaces          | TypeScript, React, Next.js, Tailwind CSS   |
-| Backend             | Node.js, NestJS, PostgreSQL, Redis, Prisma |
-| Delivery            | Docker, Traefik, GitHub Actions            |
-| Games & experiments | Godot                                      |
+| Interfaces   | Backend & data          | Delivery & experiments           |
+| :----------- | :---------------------- | :------------------------------- |
+| Tailwind CSS | NestJS · Redis · Prisma | Traefik · GitHub Actions · Godot |
 
 </details>
 
-### Let’s make something useful
+<br>
 
-Have a question, an idea, or a project you’d like to work on together?
-[Send me a message](https://t.me/daniarjabagin).
+<p align="center"><strong>Have an idea we could build together?</strong></p>
+<p align="center">
+  <a href="https://t.me/daniarjabagin"><img src="assets/buttons/talk.svg" alt="Let’s talk on Telegram" height="44"></a>
+</p>
 
 ---
 
-<p align="center">
-  <sub>I write the code at Asteru. It makes its own decisions.</sub>
-</p>
+<p align="center"><sub>I write the code at Asteru. It makes its own decisions.</sub></p>
